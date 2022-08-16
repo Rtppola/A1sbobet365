@@ -68,7 +68,7 @@ button:focus {
 }
 
 .btn-provider:hover {
-    background-color: #F6FBF4;
+    background-color: #FEFBF6;
 }
 
 .slot-sidebar-nav {
@@ -113,7 +113,7 @@ button:focus {
 }
 
 .active {
-    background-color: #0092b1;
+    background-color: #FEFBF6;
 }
 
 .slot .content {
